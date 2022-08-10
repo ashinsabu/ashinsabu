@@ -169,6 +169,15 @@ My name is Ashin Sabu and I'm a Full Stack Javascript Developer who loves to wor
   
 </table>
 
+# 📈 Stats
+
+[![Ashin Sabu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashinsabu&hide=stars&count_private=true&show_icons=true&theme=react)]
+
+
+# 📫 How to reach me
+Connect with me on LinkedIn and drop me a message: <a href="https://www.linkedin.com/in/ashin-sabu-1059a6175/">Ashin Sabu</a>
+Email me at: ashin.sabu3@gmail.com
+
 <!--
 **ashinsabu/ashinsabu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
