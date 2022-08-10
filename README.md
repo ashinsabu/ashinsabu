@@ -171,11 +171,17 @@ My name is Ashin Sabu and I'm a Full Stack Javascript Developer who loves to wor
 
 # 📈 Stats
 
-[![Ashin Sabu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashinsabu&hide=stars&count_private=true&show_icons=true&theme=react)]
-
+<img
+  src="https://github-readme-stats.vercel.app/api?username=ashinsabu&hide=stars&count_private=true&show_icons=true&theme=react&&hide_border=true"
+/>
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=ashinsabu&&theme=react&&hide_border=true"
+/>
 
 # 📫 How to reach me
+
 Connect with me on LinkedIn and drop me a message: <a href="https://www.linkedin.com/in/ashin-sabu-1059a6175/">Ashin Sabu</a>
+
 Email me at: ashin.sabu3@gmail.com
 
 <!--
