@@ -70,9 +70,6 @@ My name is Ashin Sabu and I'm a Full Stack Javascript Developer who loves to wor
       />
       <br /><strong>Redux</strong>
     </td>
-   </tr>
-   
-  <tr>
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"
@@ -82,8 +79,10 @@ My name is Ashin Sabu and I'm a Full Stack Javascript Developer who loves to wor
       />
       <br /><strong>Bootstrap</strong>
     </td>
-  
-    <td align="center" height="108" width="108">
+  </tr>
+   
+  <tr>
+  <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
         width="48"
@@ -146,8 +145,6 @@ My name is Ashin Sabu and I'm a Full Stack Javascript Developer who loves to wor
       />
       <br /><strong>Npm</strong>
     </td>
-  </tr>
-  <tr>
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg"
@@ -157,16 +154,18 @@ My name is Ashin Sabu and I'm a Full Stack Javascript Developer who loves to wor
       />
       <br /><strong>Flutter</strong>
     </td>
-    <td align="center" height="108" width="108">
+  </tr>
+  <tr>
+   <td align="center" height="108" width="108">
       <img
-        src="
-  https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png"
+        src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png"
         width="48"
         height="48"
         alt="JupyterNotebooks"
       />
       <br /><strong>Jupyter Notebooks</strong>
     </td>
+    </tr>
   
 </table>
 
