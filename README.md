@@ -18,6 +18,15 @@ My name is Ashin Sabu and I'm a Full Stack Javascript Developer who loves to wor
     </td>
     <td align="center" height="108" width="108">
       <img
+        src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"
+        width="48"
+        height="48"
+        alt="Python"
+      />
+      <br /><strong>Python</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"
         width="48"
         height="48"
@@ -70,6 +79,10 @@ My name is Ashin Sabu and I'm a Full Stack Javascript Developer who loves to wor
       />
       <br /><strong>Redux</strong>
     </td>
+  </tr> 
+  
+   
+  <tr>
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"
@@ -79,10 +92,7 @@ My name is Ashin Sabu and I'm a Full Stack Javascript Developer who loves to wor
       />
       <br /><strong>Bootstrap</strong>
     </td>
-  </tr>
-   
-  <tr>
-  <td align="center" height="108" width="108">
+    <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
         width="48"
@@ -145,6 +155,8 @@ My name is Ashin Sabu and I'm a Full Stack Javascript Developer who loves to wor
       />
       <br /><strong>Npm</strong>
     </td>
+    </tr>
+    <tr>
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg"
@@ -154,8 +166,6 @@ My name is Ashin Sabu and I'm a Full Stack Javascript Developer who loves to wor
       />
       <br /><strong>Flutter</strong>
     </td>
-  </tr>
-  <tr>
    <td align="center" height="108" width="108">
       <img
         src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png"
@@ -164,6 +174,15 @@ My name is Ashin Sabu and I'm a Full Stack Javascript Developer who loves to wor
         alt="JupyterNotebooks"
       />
       <br /><strong>Jupyter Notebooks</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png"
+        width="48"
+        height="48"
+        alt="Linux"
+      />
+      <br /><strong>Linux</strong>
     </td>
     </tr>
   
