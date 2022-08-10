@@ -172,7 +172,7 @@ My name is Ashin Sabu and I'm a Full Stack Javascript Developer who loves to wor
 # 📈 Stats
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=ashinsabu&hide=stars&count_private=true&show_icons=true&theme=react&&hide_border=true"
+  src="https://github-readme-stats.vercel.app/api?username=ashinsabu&count_private=true&show_icons=true&theme=react&&hide_border=true"
 />
 <img
   src="https://github-readme-streak-stats.herokuapp.com/?user=ashinsabu&&theme=react&&hide_border=true"
