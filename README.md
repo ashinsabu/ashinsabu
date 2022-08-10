@@ -204,7 +204,6 @@ Connect with me on LinkedIn and drop me a message: <a href="https://www.linkedin
 Email me at: ashin.sabu3@gmail.com
 
 <!--
-**ashinsabu/ashinsabu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
