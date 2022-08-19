@@ -1,6 +1,6 @@
 # 👋 Hey there 
 <div align="justify">
-My name is Ashin Sabu and I'm a Full Stack Javascript Developer who loves to work with JavaScript technologies and is enthusiastic about common algorithms, competitive programming and Machine Learning Algorithms. Right now my mind is focused on learning everything that is related to Web Development and Machine Learning. I'm also passionate about exploring new technologies which I can leverage to solve real-life problems.
+My name is Ashin Sabu and I'm a Full Stack Javascript Developer who loves to work with JavaScript technologies and is enthusiastic about web development, mobile development using flutter, competitive programming and ML/DL. Right now my mind is focused on learning everything related to Web Development and Machine Learning. I'm also passionate about exploring new technologies which I can leverage to solve real-life problems.
 </div>
 
 # 🔧 Technologies & Tools
