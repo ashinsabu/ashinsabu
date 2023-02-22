@@ -198,7 +198,7 @@ Right now my mind is focused on learning everything related to Web Development, 
 <img
   src="https://github-readme-streak-stats.herokuapp.com/?user=ashinsabu&&theme=react&&hide_border=true"
 />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashinsabu&layout=compact)](https://github.com/ashinsabu/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashinsabu&layout=compact&theme=react)](https://github.com/ashinsabu/github-readme-stats)
 # 📫 How to reach me
 
 Connect with me on LinkedIn and drop me a message: <a href="https://www.linkedin.com/in/ashin-sabu-1059a6175/">Ashin Sabu</a>
