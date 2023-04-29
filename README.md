@@ -1,8 +1,14 @@
 # 👋 Hey there 
 <div align="justify">
-My name is Ashin Sabu and I'm a Full Stack Javascript Developer who loves to work with JavaScript technologies and is enthusiastic about web development, mobile development using flutter, competitive programming and ML/DL. 
+  My name is <b>Ashin Sabu</b> and I'm a Sofware Developer with experience in Embedded C/C++, Operating Systems Programming & Linux, JavaScript technologies. I have also explored Machine Learning/Deep Learning and Cross-Platform Mobile Development(Flutter) superficially. 
 
-Right now my mind is focused on learning everything related to Web Development, Distributed & Scaled Systems and Machine Learning. 
+I am deeply passionate about competitive programming and programming Operating Systems.
+
+Right now I am learning
+  Rust
+  Distributed Systems and System Design
+  Deep Learning
+  
 </div>
 
 # 🔧 Technologies & Tools
