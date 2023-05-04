@@ -5,9 +5,17 @@
 I am deeply passionate about competitive programming and programming Operating Systems.
 
 Right now I am learning
+  
+  DevOps
+  
+  Embedded C and Socket Programming
+  
   Rust
+  
   Distributed Systems and System Design
+  
   Deep Learning
+  
   
 </div>
 
