@@ -1,6 +1,6 @@
 # 👋 Hey there 
 <div align="justify">
-  My name is <b>Ashin Sabu</b> and I'm a Sofware Developer with experience in Embedded C/C++, Operating Systems Programming & Linux, JavaScript technologies. I have also explored Machine Learning/Deep Learning and Cross-Platform Mobile Development(Flutter) superficially. 
+  My name is <b>Ashin Sabu</b> and I'm a Sofware Developer and have worked in C/C++(Desktop and Embedded), Python, Java, Operating Systems programming and Full Stack Web development extensively. I have also tinkered with <a href = "https://monkeypoxdetect.firebaseapp.com/" target = "__blank">deploying Neural Networks to the web</a> and App Dev in Flutter. 
 
 I am deeply passionate about competitive programming and programming Operating Systems.
 
@@ -13,7 +13,6 @@ Currently I am learning:
  ✔️ Distributed Systems and System Design
   
  ✔️ Deep Learning
-  
   
 </div>
 
