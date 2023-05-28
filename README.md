@@ -1,8 +1,15 @@
-# 👋 Hey there 
-<div align="justify">
-  My name is <b>Ashin Sabu</b> and I'm a Sofware Developer and have worked in C/C++(Desktop and Embedded), Python, Java, Operating Systems programming and Full Stack Web development extensively. I have also tinkered with <a href = "https://monkeypoxdetect.firebaseapp.com/" target = "__blank">deploying Neural Networks to the web</a> and App Dev in Flutter. 
+# ‍Hey There!👋
+<hr>
 
-I am deeply passionate about competitive programming and programming Operating Systems.
+## About Me
+
+- 🧑‍💻 Software Developer
+- Bachelor's in Computer Science
+- Pronouns: he/him
+<div align="justify">
+
+ I'm a Sofware Developer and have worked in C/C++(Desktop and Embedded), Python, Java, Operating Systems programming and Full Stack Web development extensively. I have also tinkered with <a href = "https://monkeypoxdetect.firebaseapp.com/" target = "__blank">deploying Neural Networks to the web</a> and App Dev in Flutter. 
+
 
 Currently I am learning:
   
@@ -98,30 +105,12 @@ Currently I am learning:
   <tr>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"
-        width="48"
-        height="48"
-        alt="Bootstrap"
-      />
-      <br /><strong>Bootstrap</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
         width="48"
         height="48"
         alt="Node.js"
       />
       <br /><strong>Node.js</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
-        width="48"
-        height="48"
-        alt="Express"
-      />
-      <br /><strong>Express</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -152,24 +141,22 @@ Currently I am learning:
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+        src="https://pbs.twimg.com/profile_images/1598742980474834944/wHCUV4av_400x400.png"
         width="48"
         height="48"
-        alt="Git"
+        alt="AWS"
       />
-      <br /><strong>Git</strong>
+      <br /><strong>AWS</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"
+        src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png"
         width="48"
         height="48"
-        alt="Npm"
+        alt="Docker"
       />
-      <br /><strong>Npm</strong>
+      <br /><strong>Docker</strong>
     </td>
-    </tr>
-    <tr>
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg"
@@ -179,7 +166,7 @@ Currently I am learning:
       />
       <br /><strong>Flutter</strong>
     </td>
-   <td align="center" height="108" width="108">
+    <td align="center" height="108" width="108">
       <img
         src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png"
         width="48"
@@ -188,17 +175,8 @@ Currently I am learning:
       />
       <br /><strong>Jupyter Notebooks</strong>
     </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png"
-        width="48"
-        height="48"
-        alt="Linux"
-      />
-      <br /><strong>Linux</strong>
-    </td>
-    </tr>
-  
+</tr>
+
 </table>
 
 # 📈 Stats
@@ -210,10 +188,11 @@ Currently I am learning:
   src="https://github-readme-streak-stats.herokuapp.com/?user=ashinsabu&&theme=react&&hide_border=true"
 />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashinsabu&layout=compact&theme=react)](https://github.com/ashinsabu/github-readme-stats)
-# 📫 How to reach me
+# 📫 Socials
 
-Connect with me on LinkedIn and drop me a message: <a href="https://www.linkedin.com/in/ashin-sabu-1059a6175/">Ashin Sabu</a>
-
+- <div><img src ="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt ="LinkedIn" width = "24" height ="24"> Connect and drop a message: <a href="https://www.linkedin.com/in/ashin-sabu-1059a6175/">Ashin Sabu</a></div>
+- <div><img src ="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-twitter-social-media-round-icon-png-image_6315985.png" alt ="Twitter" width = "24" height ="24"> DM me at:<a href="https://twitter.com/ashinsabu3"> ashinsabu3</a></div>
+- <div><img src ="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-instagram-new-square2-512.png" alt ="Instagram" width = "24" height ="24"> Instagram: <a href="https://www.instagram.com/ashinsabu3"> ashinsabu3</a></div>
 Email me at: ashin.sabu3@gmail.com
 
 <!--
