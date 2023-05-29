@@ -1,6 +1,4 @@
 # ‍Hey There!👋
-<hr>
-
 ## About Me
 
 - 🧑‍💻 Software Developer
