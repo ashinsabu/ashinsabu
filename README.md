@@ -6,18 +6,16 @@
 - Pronouns: he/him
 <div align="justify">
 
- I'm a Software Developer and have worked in C/C++(Desktop and Embedded), Python, Java, Operating Systems programming and Full Stack Web development extensively. I have also tinkered with <a href = "https://monkeypoxdetect.firebaseapp.com/" target = "__blank">deploying Neural Networks to the web</a> and App Dev in Flutter. 
+ I'm a Software Developer and work primarily with Golang(GitOps with ArgoCD), Kubernetes, Docker and Javascript(Typescript, React, Vue) primarily. I have industry experience in C/C++(Embedded), Python & MicroPython, Java, Operating Systems programming and Jenkins CI/CD. I have also tinkered with <a href = "https://monkeypoxdetect.firebaseapp.com/" target = "__blank">deploying Neural Networks to the web</a> and App Dev in Flutter. 
 
 
 Currently I am learning:
   
  ✔️ DevOps
   
- ✔️ Rust
+ ✔️ Golang
   
- ✔️ Distributed Systems and System Design
-  
- ✔️ Deep Learning
+ ✔️ Distributed Systems, Kubernetes and GitOps
   
 </div>
 
