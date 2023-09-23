@@ -6,7 +6,7 @@
 - Pronouns: he/him
 <div align="justify">
 
- I'm a Software Developer and work primarily with Golang(GitOps with ArgoCD), Kubernetes, Docker and Javascript(Typescript, React, Vue) primarily. I have industry experience in C/C++(Embedded), Python & MicroPython, Java, Operating Systems programming and Jenkins CI/CD. I have also tinkered with <a href = "https://monkeypoxdetect.firebaseapp.com/" target = "__blank">deploying Neural Networks to the web</a> and App Dev in Flutter. 
+ I'm a Software Developer and work primarily in Java, Microservice Development, Golang, Docker, Kubernetes and Javascript(Typescript, React, Vue) primarily. I have industry experience in C(Embedded), Python & MicroPython, Go, Docker, K8s and adjacent tooling, Java, Operating Systems programming and Jenkins CI/CD. I have also tinkered with <a href = "https://monkeypoxdetect.firebaseapp.com/" target = "__blank">deploying Neural Networks to the web</a> and App Dev in Flutter. 
 
 
 Currently I am learning:
@@ -25,12 +25,21 @@ Currently I am learning:
   <tr>
     <td align="center" height="108" width="108">
       <img
-        src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png"
+        src="https://cdn.worldvectorlogo.com/logos/golang-1.svg"
         width="48"
         height="48"
         alt="C++"
       />
-      <br /><strong>C++</strong>
+      <br /><strong>Go</strong>
+    </td>
+    <td align="center" height="108" width="108">
+       <img
+         src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png"
+         width="48"
+         height="48"
+         alt="Java"
+       />
+       <br /><strong>Java</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -86,28 +95,8 @@ Currently I am learning:
       />
       <br /><strong>React</strong>
     </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
-        width="48"
-        height="48"
-        alt="Redux"
-      />
-      <br /><strong>Redux</strong>
-    </td>
-  </tr> 
-  
    
   <tr>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
-        width="48"
-        height="48"
-        alt="Node.js"
-      />
-      <br /><strong>Node.js</strong>
-    </td>
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
@@ -137,12 +126,12 @@ Currently I am learning:
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://pbs.twimg.com/profile_images/1598742980474834944/wHCUV4av_400x400.png"
+        src="https://static-00.iconduck.com/assets.00/google-cloud-icon-2048x1646-7admxejz.png"
         width="48"
         height="48"
         alt="AWS"
       />
-      <br /><strong>AWS</strong>
+      <br /><strong>GCP</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -155,22 +144,52 @@ Currently I am learning:
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg"
+        src="https://upload.wikimedia.org/wikipedia/labs/thumb/b/ba/Kubernetes-icon-color.svg/2110px-Kubernetes-icon-color.svg.png"
         width="48"
         height="48"
-        alt="Flutter"
+        alt="Kubernetes"
       />
-      <br /><strong>Flutter</strong>
+      <br /><strong>Kubernetes</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png"
+        src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1915px-Tensorflow_logo.svg.png"
         width="48"
         height="48"
         alt="JupyterNotebooks"
       />
-      <br /><strong>Jupyter Notebooks</strong>
+      <br /><strong>TensorFlow</strong>
     </td>
+   <td align="center" height="108" width="108">
+      <img
+        src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Prometheus_software_logo.svg/2066px-Prometheus_software_logo.svg.png"
+        width="48"
+        height="48"
+        alt="Prometheus"
+      />
+      <br /><strong>Prometheus</strong>
+   </td>
+</tr>
+<tr>
+  <td align="center" height="108" width="108">
+     <img
+       src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/1200px-PyTorch_logo_icon.svg.png"
+       width="48"
+       height="48"
+       alt="JupyterNotebooks"
+     />
+     <br /><strong>PyTorch</strong>
+  </td>
+  <td align="center" height="108" width="108">
+     <img
+       src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1915px-Tensorflow_logo.svg.png"
+       width="48"
+       height="48"
+       alt="JupyterNotebooks"
+     />
+     <br /><strong>TensorFlow</strong>
+   
+  </td>
 </tr>
 
 </table>
