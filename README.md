@@ -10,13 +10,6 @@
 
 I also use this account: https://github.com/ashinsabu3
 
-Currently I am learning:
-  
- ✔️ DevOps
-  
- ✔️ Golang
-  
- ✔️ Distributed Systems, Kubernetes and GitOps
   
 </div>
 
