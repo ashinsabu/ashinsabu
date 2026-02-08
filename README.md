@@ -187,33 +187,3 @@ I also use this account: https://github.com/ashinsabu3
 </tr>
 
 </table>
-
-# 📈 Stats
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=ashinsabu&count_private=true&show_icons=true&theme=react&&hide_border=true"
-/>
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=ashinsabu&&theme=react&&hide_border=true"
-/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashinsabu&layout=compact&theme=react)](https://github.com/ashinsabu/github-readme-stats)
-# 📫 Socials
-
-- <div><img src ="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt ="LinkedIn" width = "24" height ="24"> Connect and drop a message: <a href="https://www.linkedin.com/in/ashin-sabu-1059a6175/">Ashin Sabu</a></div>
-- <div><img src ="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-twitter-social-media-round-icon-png-image_6315985.png" alt ="Twitter" width = "24" height ="24"> DM me at:<a href="https://twitter.com/ashinsabu3"> ashinsabu3</a></div>
-- <div><img src ="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-instagram-new-square2-512.png" alt ="Instagram" width = "24" height ="24"> Instagram: <a href="https://www.instagram.com/ashinsabu3"> ashinsabu3</a></div>
-Email me at: ashin.sabu3@gmail.com
-
-<!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
